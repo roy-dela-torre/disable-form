@@ -74,7 +74,7 @@ Form Guard is a WordPress plugin designed to protect your development and stagin
 
 **Enable Guard**: Check this box to activate form protection on non-production domains.
 
-**Allowed Domain**: Enter your production domain name (e.g., `www.bankofmakati.com.ph`). The plugin normalizes domains, so `www.` prefix is optional.
+**Allowed Domain**: Enter your production domain name (e.g., `www.yout-domain.com`). The plugin normalizes domains, so `www.` prefix is optional.
 
 **Default Message**: Customize the message shown to non-Philippines visitors. Default: "🚧 Forms are disabled on this non-production domain."
 
